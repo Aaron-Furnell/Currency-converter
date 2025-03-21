@@ -1,0 +1,1 @@
+A program for a travel agent to convert GBP to USD, EUR, BRL, JPY, or TRY. It calculates the converted amount, transaction fee, and applies a 5% staff discount if applicable. Outputs include the received currency, fee, discount, and total cost. Designed to be accurate, efficient, and user-friendly.
